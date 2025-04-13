@@ -1,0 +1,2 @@
+# dador
+kino bot dador
