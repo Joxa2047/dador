@@ -1,10 +1,27 @@
 {
-    "kinolar": {},
-    "adminlar": {},
     "foydalanuvchilar": [
-        "7888620964"
+        "1607595117",
+        "7817217067",
+        "7888620964",
+        "5568163271"
     ],
-    "kanallar": [
-        "Probe1u"
-    ]
+    "kinolar": {
+        "2001": {
+            "video_id": "BAACAgIAAxkBAANMZ_vjuk_srIiTdGf7ILfwBWwEdCUAAmdxAAKsCaFLBdVl49N4Uwo2BA",
+            "description": "Asirlar"
+        },
+        "585": {
+            "video_id": "BAACAgIAAxkBAANYZ_vj9NIoBHiG_8jclcCv-aEOB9wAAiN8AAJQUphLw6C2-jw3L0A2BA",
+            "description": "Imozay Based on trust"
+        },
+        "1000": {
+            "video_id": "BAACAgIAAxkBAAN1Z_vmhqyfD296xu96aRGmyUFQlV4AAvFwAAL4DeFLpeZBCxAtz1E2BA",
+            "description": "Qinidan chiqqan pichoqlar"
+        }
+    },
+    "adminlar": {
+        "1607595117": "Abbos",
+        "7888620964": "Javohir"
+    },
+    "kanallar": ["Probe1u"]
 }
