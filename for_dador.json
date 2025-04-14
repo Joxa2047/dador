@@ -21,5 +21,7 @@
         "8064650615": "Sardor",
         "7888620964": "Javohir"
     },
-    "kanallar": []
+    "kanallar": [
+        "/commands"
+    ]
 }
